@@ -29,7 +29,7 @@
 ### 方法二：克隆仓库
 
 ```bash
-git clone https://github.com/your-username/pmui-skill.git
+git clone https://github.com/breezeggubmag357/pmui-skill.git
 cd pmui-skill
 ```
 
@@ -51,7 +51,7 @@ cd pmui-skill
 bash scripts/serve.sh 9000
 ```
 
-然后访问 http://localhost:9000 查看原型。
+然后访问 <http://localhost:9000> 查看原型。
 
 ## 📖 文档
 
@@ -126,9 +126,9 @@ prototype/
 
 ## 📮 联系方式
 
-- 项目主页: [https://github.com/your-username/pmui-skill](https://github.com/your-username/pmui-skill)
+- 项目主页: [https://github.com/breezeggubmag357/pmui-skill](https://github.com/your-username/pmui-skill)
 - 问题反馈: [Issues](https://github.com/your-username/pmui-skill/issues)
 
----
+***
 
 ⭐ 如果这个项目对你有帮助，请给个 Star！
